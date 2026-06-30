@@ -1,0 +1,17 @@
+{
+    "name": "SableVixens ML extension",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "SableVixens-ML-extension": "pkg:SableVixens-ML-extension.json"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "SableVixens-ML-extension.json"
+    ],
+    "preferredEditor": "tsprj"
+}
